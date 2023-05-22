@@ -1,5 +1,5 @@
 ### Hi there 👋
-### [react](https://github.com/vadosik15/vadosik15/assets/60158880/a2c57c89-b405-49d1-9753-67923671e6ef)
+### ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 <!--
