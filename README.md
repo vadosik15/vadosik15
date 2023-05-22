@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-### ![][Uploading react.pdf…]()![react (2)](https://github.com/vadosik15/vadosik15/assets/60158880/3e66673a-f568-4ca7-8be9-9ab3df87df2d)
 
 
 
